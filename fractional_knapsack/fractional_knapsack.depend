@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1784636454 source:c:\users\user\desktop\daa\fractional_knapsack\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
